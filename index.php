@@ -10,6 +10,7 @@ and open the template in the editor.
         <title>Projecto PHP</title>
     </head>
     <body>
+        <p>Staging</p>
         <?php
          phpinfo();
         ?>
