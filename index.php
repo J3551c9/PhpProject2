@@ -10,7 +10,7 @@ and open the template in the editor.
         <title>Projecto PHP</title>
     </head>
     <body>
-        <p>Production A</p>
+        <p>Production A-1</p>
         <?php
          phpinfo();
         ?>
